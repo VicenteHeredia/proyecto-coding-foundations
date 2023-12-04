@@ -1,0 +1,29 @@
+.btn {
+    background-color: #36383f;
+    color: white;
+    font-size: 2em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+}
+
+.top-right > button {
+    background-color: #36383f;
+    border-radius: 3px;
+}
+
+.for-free-1 > button {
+    background-color: #4bce79;
+}
+
+.for-free-2 > button {
+    background-color: black;
+}
+
+.bottom-wrapper > button {
+    background-color: #36383f;
+    border: solid 1px #676767;
+    border-radius: 0%;
+}
+

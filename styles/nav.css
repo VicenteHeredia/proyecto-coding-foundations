@@ -1,0 +1,125 @@
+.logo img {
+    float: left;
+    width: 12%;
+    padding-block: 20px;
+    padding-left: 10px;
+}
+
+.navigation-wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    text-decoration: none;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.navigation {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: end;
+}
+
+.explore {
+    display: grid;
+    text-align-last: justify;
+    padding-left: 40px;
+    padding-top: 12px;
+    padding-right: 10px;
+    font-size: 100%;
+}
+
+.explore-3 {
+    padding-right: 80px;
+}
+
+.top-right {
+    text-align: right;
+    text-align-last: justify;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-small;
+}
+
+.top-right > i {
+    font-size: x-large;
+    padding: 0px 10px;
+}
+
+.center-wrapper {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    text-decoration: none;
+    padding-top: 50px;
+    padding-bottom: 5px;
+}
+
+.center-wrapper {
+    background: #353840;
+    background: -moz-linear-gradient(-45deg, #353840 0%, #444851 20%, #0A0B0D 100%);
+    background: -webkit-linear-gradient(-45deg, #353840 0%, #444851 20%, #0A0B0D 100%);
+    background: linear-gradient(135deg, #353840 0%, #444851 20%, #0A0B0D 100%);
+}
+
+.center-left {
+    padding-left: 50px;
+    font-size: x-large;
+    width: 2150px;
+}
+
+.center-left-1 > button {
+    font-size: xx-large;
+}
+
+.for-free {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    padding: 50px 0px 0px 0px;
+}
+
+.for-free-1 {
+    padding-right: 20px;
+    font-size: small;
+    color: white;
+}
+
+.for-free-2 {
+    font-size: small;
+}
+
+
+.center-right {
+    align-content: center;
+    padding-top: 30px;
+}
+
+.center-right > a {
+    align-content: center;
+    padding-left: 15px;
+}
+
+
+.image img{
+    float: right;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.bottom-wrapper {
+    display: grid;
+    grid-auto-flow: column;
+    text-align: center;
+    height: 50px;
+    font-size: x-small;
+}
+
+.foot {
+    padding-bottom: 90px;
+    background-color: #191a1d;
+}
